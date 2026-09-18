@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="001.png" width="400"></td>
-<td><img src="002.png" width="400"></td>
+<td><img src="/shots/007.png" width="400"></td>
+<td><img src="/shots/003.png" width="400"></td>
 </tr>
 </table>
 
@@ -15,8 +15,8 @@ The references were used only to understand the shapes, construction, and overal
 
 <table>
 <tr>
-<td><img src="003.png" width="400"></td>
-<td><img src="004.png" width="400"></td>
+<td><img src="/shots/006.png" width="400"></td>
+<td><img src="/shots/004.png" width="400"></td>
 </tr>
 </table>
 

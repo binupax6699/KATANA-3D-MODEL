@@ -42,6 +42,16 @@ The saya was also given a custom gold-and-black textured finish to complement th
 
 **3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/katana-61e49a14ec9043a7bd3ba22fb7878508)
 
+
+## License
+
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Project Info
 
 * **Software:** Blender

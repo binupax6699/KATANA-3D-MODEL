@@ -22,6 +22,13 @@ The references were used only to understand the shapes, construction, and overal
 
 ## Modeling
 
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
+
 * **Blade:** Modeled the blade with its curved profile, detailed surface patterns, and traditional blade features.
 * **Tsuba:** Created a custom sword guard featuring detailed lion-inspired **shishi** ornaments.
 * **Tsuka:** Modeled the handle and added the surrounding fittings and grip details.
